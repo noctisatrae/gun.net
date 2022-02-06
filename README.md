@@ -7,4 +7,4 @@
 - [ ] Create a system for [conflict resolution](https://gun.eco/docs/Porting-GUN#conflict-resolution-this-section-is-not-finished-and-will-probably-be-entirely-rewritten) (what scares me the most 😨) 
 
 ## Screenshot of the current state !
-[It works ! It **works** !](./currentState.png)
+![It works ! It **works** !](./currentState.png)
