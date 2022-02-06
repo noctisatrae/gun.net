@@ -4,7 +4,8 @@
   "description": "Gun for C#",
   "main": "./js/index.js",
   "scripts": {
-    "js": "node ./js/index.js",
+    "reader": "node ./js/reader.js",
+    "writer": "node ./js/writer.js",
     "c#":"dotnet run --project ./net",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

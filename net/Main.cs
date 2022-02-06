@@ -80,8 +80,6 @@ class Server {
                     Console.WriteLine("{0}", text);
                 } else
                     Console.WriteLine("mask bit not set");
-
-                Console.WriteLine();
             }
         }
     }
