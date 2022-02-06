@@ -1,0 +1,16 @@
+{
+  "name": "gun.net",
+  "version": "1.0.0",
+  "description": "Gun for C#",
+  "main": "./js/index.js",
+  "scripts": {
+    "js": "node ./js/index.js",
+    "c#":"dotnet run --project ./net",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noctis_atrae",
+  "license": "ISC",
+  "dependencies": {
+    "gun": "^0.2020.1235"
+  }
+}
