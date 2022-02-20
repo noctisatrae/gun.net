@@ -1,7 +1,7 @@
 const Gun = require("gun");
 
-const gun = Gun({peers:["http://127.0.0.1"]})
+const gun = Gun({peers:["http://127.0.0.1/gun"]})
 
-gun.get("Hey", (data) => {
-    console.log(data);
+gun.get("test").on(data => {
+    console.log(data)
 })
